@@ -1,6 +1,6 @@
 # Builder Workshop 1 - Prompt Engineering Lab
 
-## Introductioin 
+## Introduction 
 
 ### Foundation Models (Large Language Models)
 Foundation models are a class of generative AI models that are capable of understanding and generating human-like language at a massive scale. These LLMs are trained on vast amounts of text data, often on the order of billions of words or more, using techniques such as unsupervised learning and self-supervised learning. They are capable of generating high-quality human-like language across a wide range of tasks, including language translation, text summarization, and creative writing.
